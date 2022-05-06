@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/spacex-api-website/static/css/main.b559058e.css",
+    "main.js": "/spacex-api-website/static/js/main.769cdc99.js",
+    "static/js/787.0420ccf9.chunk.js": "/spacex-api-website/static/js/787.0420ccf9.chunk.js",
+    "index.html": "/spacex-api-website/index.html",
+    "main.b559058e.css.map": "/spacex-api-website/static/css/main.b559058e.css.map",
+    "main.769cdc99.js.map": "/spacex-api-website/static/js/main.769cdc99.js.map",
+    "787.0420ccf9.chunk.js.map": "/spacex-api-website/static/js/787.0420ccf9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b559058e.css",
+    "static/js/main.769cdc99.js"
+  ]
+}
